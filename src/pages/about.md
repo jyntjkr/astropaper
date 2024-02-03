@@ -1,36 +1,15 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+"Tranlsations" is a project which provides Hindi translation to essays written by Paul Graham. Paul is a prominent essayist, painter, computer scientist, and investor. His essays have positively influenced my thought process over time. This is an effort to make his writings clear to people who struggle with understanding English.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+All kinds of suggestions and improvements are welcome for these translations.
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for writing contents.
 
-## Features
+If you like this theme, you can visit this [repo](https://github.com/satnaing/astro-paper).
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you want to give feedback on anything, you can contact me via [email](mailto:jayantjakhar17@gmail.com).
